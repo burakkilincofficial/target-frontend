@@ -1,0 +1,36 @@
+.footer {
+    position: fixed;
+    height: 25px;
+}
+
+.heading {
+    margin-bottom: 60px;
+    margin-top: 50px;
+}
+
+.container {
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.TodoApp {
+    height: 100vh;
+}
+
+.link {
+    color: gray;
+}
+
+.link:hover {
+    color: darkgray;
+}
+
+.welcomePicture {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    flex-shrink: 0;
+    height: 100vh;
+    width: 100%;
+}
